@@ -1,16 +1,9 @@
-# flutter_simple_responsive
+# Flutter Resposive Example
+## Landscape
+<img width="736" alt="Screenshot 2023-07-16 at 11 23 43 PM" src="https://github.com/openSourcebd99/flutter_simple_responsive/assets/125869281/d47866f5-2e1d-40f3-aa23-a2b634087a46">
 
-A new Flutter project.
+## Scrollable
+<img width="807" alt="Screenshot 2023-07-16 at 11 23 25 PM" src="https://github.com/openSourcebd99/flutter_simple_responsive/assets/125869281/ac0bc17b-5822-4b41-86be-3e338f84a79b">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Portrait
+<img width="824" alt="Screenshot 2023-07-16 at 11 23 10 PM" src="https://github.com/openSourcebd99/flutter_simple_responsive/assets/125869281/6cc6255a-1f8a-41c4-b8f3-12acacedf122">
